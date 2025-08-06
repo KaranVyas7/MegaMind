@@ -1,6 +1,6 @@
 # MegaMind
 
-MegaMind is an AI-powered learning assistant that helps students better comprehend and retain lecture material. Winner of a track at HackRU Spring 2025.
+MegaMind is an AI-powered learning assistant that helps students better comprehend and retain lecture material.
 
 ## What It Does
 
